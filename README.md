@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard 📊
+![Screenshot (2)](https://github.com/user-attachments/assets/17c1989e-c647-4ebf-8f89-4fc3067f56f2)# Superstore Sales Dashboard 📊
 
 ## 📁 Project: Task 2 - Data Visualization and Storytelling  
 **Internship Role: Data Analyst Intern  
@@ -29,6 +29,9 @@ The main objective of this task was to **create an interactive Power BI dashboar
 - Learned dashboard best practices including layout, interactivity, and user engagement.
 
 ---
+## 📷 Screenshots
+![Uploading Screenshot .png…]()
+
 
 ---
 
