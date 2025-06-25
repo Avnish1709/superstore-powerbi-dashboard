@@ -1,40 +1,59 @@
-![Screenshot (2)](https://github.com/user-attachments/assets/17c1989e-c647-4ebf-8f89-4fc3067f56f2)# Superstore Sales Dashboard 📊
 
-## 📁 Project: Task 2 - Data Visualization and Storytelling  
-**Internship Role: Data Analyst Intern  
-**Tool Used:Power BI  
-**Dataset: Superstore Sales Data (CSV format)
+# 📊 Superstore Sales Dashboard (Power BI)
+
+An interactive sales dashboard built using Power BI based on the Superstore dataset. This project demonstrates data cleaning, transformation, and visualization to derive business insights across sales, profit, customer segments, and regional performance.
 
 ---
 
-## 🎯 Objective  
-The main objective of this task was to **create an interactive Power BI dashboard** that tells a compelling story using visuals. The aim is to derive meaningful **business insights** from the Superstore dataset through the principles of **visual storytelling**.
+## 📁 Contents
+
+- Superstore_dashboard.pbix – Power BI file with cleaned data and visualizations  
+- dashboard_preview.png – Visual screenshot of the dashboard  
+- DATA_SOURCE.md – Dataset source information  
+- README.md – Project overview and instructions
 
 ---
 
+## 🚀 Dashboard Features
 
-## 🧠 Learnings / Storytelling Techniques Applied  
-
-- Selected appropriate charts for data types (e.g., bar, map, line).
-- Highlighted key insights using color, labels, and tooltips.
-- Maintained dashboard simplicity and avoided clutter.
-- Added slicers for interactive filtering by Region, Category, and Date.
-
----
-
-## 📌 Outcome  
-
-- Gained hands-on experience in Power BI dashboard building.
-- Practiced the art of **visual storytelling** to make data insightful and actionable.
-- Learned dashboard best practices including layout, interactivity, and user engagement.
-
----
-## 📷 Screenshots
-![Uploading Screenshot .png…]()
-
+- Key Performance Indicators (KPIs)  
+- Sales and Profit Trends  
+- Region and Category-wise Breakdown  
+- Customer Segment Analysis  
+- Interactive Slicers for Filtering
 
 ---
 
-## ✍️ Created By  
-**Avnish Bedi** (Data Analyst Intern)  
+## 🧹 Data Cleaning Summary
 
+- Removed duplicate rows  
+- Fixed data type issues (especially Order Date)  
+- Handled null and error values  
+- Renamed columns for clarity
+
+---
+
+## 🛠 How to Use
+
+1. Download [Power BI Desktop](https://powerbi.microsoft.com/)  
+2. Open superstore_dashboard.pbix  
+3. Use *Transform Data* to view cleaning steps  
+4. Explore the visuals and interact with filters
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](dashboard_preview.png)
+
+---
+
+## 🔗 Dataset Source
+
+[Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+---
+## 🤝 Author
+
+*Avnish Bedi*  
+Elevate Labs Internship – Data Task  
